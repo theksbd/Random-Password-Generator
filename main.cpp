@@ -89,7 +89,7 @@ int main() {
     bool reRandom = false;
     do
     {
-      int section = getRandom(1, 5);
+      int section = getRandom(1, 4);
       switch(section)
       {
         case 1:
